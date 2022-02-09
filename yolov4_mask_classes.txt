@@ -1,2 +1,2 @@
 mask
-nomask
+no-mask
